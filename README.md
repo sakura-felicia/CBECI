@@ -14,7 +14,7 @@ Hashrate share by country
 
 *Data Source*：Provided by [Cambridge Center for Alternative Finance](https://www.cbeci.org/contact/) 
 
-#### 3. [ISO.csv](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes): 
+#### 3. [Country_ISO.csv](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes): 
 
 Data Matching "Country" in [Hashrate.csv](https://github.com/sunshineluyao/CBECI/blob/master/Hashrate.csv) with the three letter ISO Code. 
 "Kosovo" does not has a three letter ISO Code, so there is a missing value. 
