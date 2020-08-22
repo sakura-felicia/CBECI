@@ -17,7 +17,7 @@ Hashrate share by country
 #### 3. [Country_ISO.csv](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes): 
 
 Data Matching "Country" in [Hashrate.csv](https://github.com/sunshineluyao/CBECI/blob/master/Hashrate.csv) with the three letter ISO Code. 
-"Kosovo" does not has a three letter ISO Code, so there is a missing value. 
+"Kosovo" does not have a three letter ISO Code, so there is a missing value. 
 
 
 #### 4. [CBECI_Visualization.ipynb](https://github.com/sunshineluyao/CBECI/blob/master/CBECI_Visualization.ipynb): 
